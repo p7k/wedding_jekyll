@@ -187,6 +187,15 @@ a.unadorned:hover {
   background-size: cover;
 }
 
+.fall {
+  background: #000 url(/assets/images/chalkboard.jpg) repeat;
+}
+
+.fall .bulbs {
+  background: url(/assets/images/bulbs-yellow.svg) repeat-x top center;
+  background-size: cover;
+}
+
 .blue {
   background: #0091d4 url(/assets/images/blue-chalkboard.jpg) repeat;
 }
