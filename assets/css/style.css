@@ -65,7 +65,7 @@ a, a:visited {
 .nav li {
   border-right: 1px solid #fff;
   display: inline-block;
-  width: 24%;
+  width: 19%;
 }
 
 .nav li:last-child {
@@ -188,7 +188,7 @@ a.unadorned:hover {
 }
 
 .fall {
-  background: #000 url(/assets/images/chalkboard.jpg) repeat;
+  background: #000 url(/assets/images/chalkboard-maroon-dark.jpg) repeat;
 }
 
 .fall .bulbs {
@@ -216,7 +216,8 @@ a.unadorned:hover {
 
 #map-canvas {
   color: #000;
-  height: 540px;
+  height: 400px;
+  width: 850px;
   margin-bottom: 1em;
 }
 
