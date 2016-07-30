@@ -216,9 +216,9 @@ a.unadorned:hover {
 
 #map-canvas {
   color: #000;
-  height: 400px;
-  width: 850px;
-  margin-bottom: 1em;
+  height: 420px;
+  width: 420px;
+  /* margin-bottom: 1em; */
 }
 
 .gm-style .gm-style-iw {
